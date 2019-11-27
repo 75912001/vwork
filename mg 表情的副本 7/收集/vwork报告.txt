@@ -1,0 +1,1 @@
+创建的报告: 	2019/5/15	GMT+8 16:38:17项目名: vwork.aep将源文件收集到: 	/Users/mlc/Desktop/vwork/mg的副本 5/收集收集的源文件: 全部收集的合成: 	大熊猫	身体	左眼	右眼	鼻子	嘴	大熊猫-眼	收集的文件数: 3收集的文件大小: 968 KB收集的源文件: 	/Users/mlc/Desktop/vwork/mg的副本 5/嘴.ai	/Users/mlc/Desktop/vwork/mg的副本 5/大熊猫-眼.ai	/Users/mlc/Desktop/vwork/mg的副本 5/大熊猫.ai	渲染增效工具:	经典 3D	使用的效果: 2效果: 	效果: 滑块控制	
